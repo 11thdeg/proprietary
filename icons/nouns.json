@@ -1,5 +1,10 @@
 {
+  "add": "add.svg",
+  "admin": "admin.svg",
+  "adventurer": "adventurer.svg",
   "missing": "fox.svg",
   "fox": "fox.svg",
-  "stylebook": "stylebook.svg"
+  "stylebook": "stylebook.svg",
+  "letl": "LL_Ampersand.svg",
+  "myrrys": "Myrrys_Icon_Scarlet.svg"
 }
